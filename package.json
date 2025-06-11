@@ -3,6 +3,10 @@
   "displayName": "Class Name Extractor",
   "description": "List Class Names in HTML Files",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roybcr/VSCodeClassNameExtractor"
+  },
   "engines": {
     "vscode": "^1.100.0"
   },
