@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/roybcr/VSCodeClassNameExtractor"
   },
+  "publisher": "roybcr",
   "engines": {
     "vscode": "^1.100.0"
   },
